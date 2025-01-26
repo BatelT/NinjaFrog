@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light gray background */
+}
+
+header {
+    background-color: #3B9B3A; /* JFrog Green */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px; /* Maximum width for main content */
+    margin: auto; /* Centering the main content */
+}
+
+h1 {
+    color: #3B9B3A; /* Darker JFrog Green for headings */
+}
+
+h2 {
+    color: #333; /* Dark gray for subheadings */
+}
+
+p {
+    color: #555; /* Darker text color for readability */
+}
+
+a {
+    color: #3B9B3A; /* Same JFrog Green for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #3B9B3A; /* JFrog Green */
+    color: white;
+    position: relative; /* Change position to relative */
+}
